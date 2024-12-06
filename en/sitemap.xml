@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/youxiake/en/categories/</loc>
+    <loc>https://wangyyyqw.github.io/youxiake/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/youxiake/categories/"
+                href="https://wangyyyqw.github.io/youxiake/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/youxiake/ar/categories/"
+                href="https://wangyyyqw.github.io/youxiake/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/youxiake/en/categories/"
+                href="https://wangyyyqw.github.io/youxiake/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/youxiake/en/</loc>
+    <loc>https://wangyyyqw.github.io/youxiake/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/youxiake/"
+                href="https://wangyyyqw.github.io/youxiake/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/youxiake/ar/"
+                href="https://wangyyyqw.github.io/youxiake/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/youxiake/en/"
+                href="https://wangyyyqw.github.io/youxiake/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/youxiake/en/tags/</loc>
+    <loc>https://wangyyyqw.github.io/youxiake/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/youxiake/tags/"
+                href="https://wangyyyqw.github.io/youxiake/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/youxiake/ar/tags/"
+                href="https://wangyyyqw.github.io/youxiake/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/youxiake/en/tags/"
+                href="https://wangyyyqw.github.io/youxiake/en/tags/"
                 />
   </url>
 </urlset>
