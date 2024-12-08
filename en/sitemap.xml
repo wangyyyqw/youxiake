@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wangyyyqw.github.io/youxiake/en/categories/</loc>
+    <loc>https://youxiake.vercel.app/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://wangyyyqw.github.io/youxiake/categories/"
+                href="https://youxiake.vercel.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://wangyyyqw.github.io/youxiake/ar/categories/"
+                href="https://youxiake.vercel.app/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wangyyyqw.github.io/youxiake/en/categories/"
+                href="https://youxiake.vercel.app/en/categories/"
                 />
   </url><url>
-    <loc>https://wangyyyqw.github.io/youxiake/en/</loc>
+    <loc>https://youxiake.vercel.app/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://wangyyyqw.github.io/youxiake/"
+                href="https://youxiake.vercel.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://wangyyyqw.github.io/youxiake/ar/"
+                href="https://youxiake.vercel.app/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wangyyyqw.github.io/youxiake/en/"
+                href="https://youxiake.vercel.app/en/"
                 />
   </url><url>
-    <loc>https://wangyyyqw.github.io/youxiake/en/tags/</loc>
+    <loc>https://youxiake.vercel.app/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://wangyyyqw.github.io/youxiake/tags/"
+                href="https://youxiake.vercel.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://wangyyyqw.github.io/youxiake/ar/tags/"
+                href="https://youxiake.vercel.app/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wangyyyqw.github.io/youxiake/en/tags/"
+                href="https://youxiake.vercel.app/en/tags/"
                 />
   </url>
 </urlset>
