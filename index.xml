@@ -7,18 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>游侠客</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://youxiake.vercel.app/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>归档</title>
-        <link>https://youxiake.vercel.app/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://youxiake.vercel.app/archives/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://youxiake.vercel.app/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>国王的游戏</title>
         <link>https://youxiake.vercel.app/p/%E5%9B%BD%E7%8E%8B%E7%9A%84%E6%B8%B8%E6%88%8F/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>https://youxiake.vercel.app/p/%E5%9B%BD%E7%8E%8B%E7%9A%84%E6%B8%B8%E6%88%8F/</guid>
         <description>&lt;img src="https://youxiake.vercel.app/p/%E5%9B%BD%E7%8E%8B%E7%9A%84%E6%B8%B8%E6%88%8F/C7.jpg" alt="Featured image of post 国王的游戏" /&gt;&lt;h2 id=&#34;书籍简介&#34;&gt;书籍简介
@@ -101,6 +93,14 @@
 &lt;h2 id=&#34;推荐理由&#34;&gt;推荐理由
 &lt;/h2&gt;&lt;p&gt;实际上，当人工智能有了自我意识后会怎样的假想，正是科幻小说的经典母题。&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>https://youxiake.vercel.app/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://youxiake.vercel.app/archives/</guid>
+        <description></description>
         </item>
         <item>
         <title>关于</title>
